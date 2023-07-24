@@ -1,5 +1,5 @@
-## Hi there👏
-➡️ How to reach me: rasel.softwareengineering.diu@gmail.com🙂
+## Hello there👏
+➡️ Here you go: rasel.softwareengineering.diu@gmail.com🙂
 
 
 

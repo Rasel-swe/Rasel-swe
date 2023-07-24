@@ -2,9 +2,12 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rasel-swe)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rasel-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rasel-swe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasel-swe&show_icons=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=Rasel-swe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rasel-swe)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
